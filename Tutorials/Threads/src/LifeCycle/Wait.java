@@ -1,0 +1,5 @@
+package LifeCycle;
+
+class Wait{
+
+}
